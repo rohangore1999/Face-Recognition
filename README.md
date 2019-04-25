@@ -1,5 +1,5 @@
 # Face-Recognition
-Basic face regonition with images
+## Basic face regonition with images
 
 *Note*
 
